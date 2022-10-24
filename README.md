@@ -8,4 +8,4 @@ Goals of the project:
 - Compare performance of different classification approaches, relative to a naive arbitrary cutoff, and examine how/why they make differing predictions
 - Potentially identify non-obvious combination of TnSeq data features which underlie whether a gene is essential or not
 - Develop an approach for gene essentiality classification that can account for variation in sequencing depth and other experimental parameters
-- As a final validation of the approach, predict the essential genes in *Acinetobacter balyayi*, which has both TnSeq and single-gene deletion data
+- As a final validation of the approach, predict the essential genes in *Acinetobacter balyayi*, which also has both TnSeq and single-gene deletion data
